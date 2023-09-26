@@ -17,7 +17,6 @@ qt_standard_project_setup()
 
 set(PROJECT_SOURCES
     main.cpp
-    qtspectro.ui
     qtspectro.h
     qtspectro.cpp
     qtspectro.rc
